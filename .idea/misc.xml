@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.28888888888888886" />
+        <entry key="app/src/main/res/layout/activity_change_password.xml" value="0.18568840579710144" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.16893115942028986" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.30496398242657596" />
+        <entry key="app/src/main/res/layout/activity_profile.xml" value="0.302536231884058" />
+        <entry key="app/src/main/res/layout/activity_registration.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_reset_password.xml" value="0.3421036985103106" />
+        <entry key="app/src/main/res/layout/activity_shop.xml" value="0.30520833333333336" />
+        <entry key="app/src/main/res/layout/first_fragment.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_first.xml" value="0.1983695652173913" />
+        <entry key="app/src/main/res/layout/fragment_registration.xml" value="0.3029891304347826" />
+        <entry key="app/src/main/res/layout/second_fragment.xml" value="0.1983695652173913" />
+        <entry key="app/src/main/res/layout/third_fragment.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
